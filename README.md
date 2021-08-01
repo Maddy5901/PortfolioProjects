@@ -16,11 +16,11 @@
 * Making a list of questions for which you need answers.
 * Connecting to the database where the data is residing.
 * Exploring the data and performing analysis tasks such as
-* * Finding the number of distinct countries.
-* * Finding out the distinct debt indicators.
-* * Totaling the amount of debt owed by the countries.
-* * Finding the country with the highest debt.
-* * Finding the average amount of debt across indicators.
-* * Finding the highest amount of principal repayments.
-* * Finding the most common debt indicator.
+  * Finding the number of distinct countries.
+  * Finding out the distinct debt indicators.
+  * Totaling the amount of debt owed by the countries.
+  * Finding the country with the highest debt.
+  * Finding the average amount of debt across indicators.
+  * Finding the highest amount of principal repayments.
+  * Finding the most common debt indicator.
 * Concluding the analysis.
